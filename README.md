@@ -1,1 +1,30 @@
-Last updated: 2026-08-22 17:10:05 WIB
+# crudigniter
+
+
+
+## 📋 Overview
+
+This repository contains **570 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-22 17:27:28 WIB*
